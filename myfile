@@ -1,0 +1,24 @@
+
+<style>
+  body {
+    background: #142bc4;
+  }
+  h1 {
+    color: #FFF;
+    text-align: center;
+  }
+  h4 {
+    margin-bottom: 0px;
+    color: #bbbdc9;
+  }
+  p {
+    color: #FFF;
+  }
+</style>
+
+<h1>Lorcan's Workspace</h1>
+
+<h4>12/04/2021</h4>
+<hr>
+<p>I am learning to code using FreeCodeCamp. On this webpage I will keeping track of my progress and practice using the tools I am learning as I am learning them. I will add pictures Of the current state of the webpage periodically to keep track of the site' progress</p>
+ 
